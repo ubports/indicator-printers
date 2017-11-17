@@ -2,7 +2,7 @@ indicator-printers (0.1.7+17.10.20171101-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Andrea Azzarone ]
   * According to the documentation cupsGetOptions can return NULL. 
-    Do not crash if it happens.
+    Do not crash if it happens. (lp: #1703046)
 
  -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 17 Nov 2017 16:11:19 +0100
 
