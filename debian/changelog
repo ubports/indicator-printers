@@ -1,4 +1,4 @@
-indicator-printers (0.1.7+17.10.20171101-0ubuntu1) UNRELEASED; urgency=medium
+indicator-printers (0.1.7+17.10.20171101-0ubuntu1) bionic; urgency=medium
 
   [ Andrea Azzarone ]
   * According to the documentation cupsGetOptions can return NULL. 
