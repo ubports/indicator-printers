@@ -1,3 +1,9 @@
+indicator-printers (0.1.8+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Thu, 11 Jan 2018 17:07:47 +0000
+
 indicator-printers (0.1.7+17.10.20171101-0ubuntu1) bionic; urgency=medium
 
   [ Andrea Azzarone ]
